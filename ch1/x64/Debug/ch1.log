@@ -1,2 +1,2 @@
-﻿  printTest.c
-  ch1.vcxproj -> C:\Users\rudrn\source\repos\ch1_1\x64\Debug\ch1.exe
+﻿variable.obj : error LNK2005: main이(가) printTest.obj에 이미 정의되어 있습니다.
+C:\Users\rudrn\source\repos\ch1_1\x64\Debug\ch1.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
