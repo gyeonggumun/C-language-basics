@@ -21,5 +21,8 @@
     <ClCompile Include="variable.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="variable2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
